@@ -1,8 +1,6 @@
-https://media.licdn.com/dms/image/v2/D4E16AQFgrBJtkzZ54w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728884186696?e=1734566400&v=beta&t=J463Mf1rSxa4__lNnbkAx_zn3yJh1m7isBuj6xONm7w
-
 ### Hi there 👋, I am Md. Rifat Hossain
 #### Student of University of Barishal
-![Student of University of Barishal]
+![Student of University of Barishal](https://media.licdn.com/dms/image/v2/D4E16AQFgrBJtkzZ54w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728884186696?e=1734566400&v=beta&t=J463Mf1rSxa4__lNnbkAx_zn3yJh1m7isBuj6xONm7w)
 
 When I think about myself first quality that comes to mind, I feel the pride of it. I am a quick learner and a self-motivated person, devoted, trustworthy, accountable, and sincere which make me an extrovert as well as a versatile one.
 
@@ -32,6 +30,8 @@ Digital Skills:  Microsoft Office: Word, Excel, PowerPoint, Access, One Drive
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdrifat49)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mdrifat49)  
+
+
 
 
 
